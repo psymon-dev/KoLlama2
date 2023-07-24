@@ -1,4 +1,13 @@
 
+<br/>
+
+✅ KoLlama2 첫버전은 고려대학교 NLP & AI 연구실과 HIAI 연구소가 공개한 한국어 instruction dataset kullm-v2를 사용한 LoRA 파인튜닝입니다.
+- 7B 저장소(https://huggingface.co/psymon/KoLlama2-7b)
+
+<br/>
+
+---
+
 [Read English](#kollama2--open-source-language-model-based-on-llama2-optimized-for-korean)
 
 # KoLlama2 : 한국어에 최적화된 Llama2 기반 오픈소스 언어모델
