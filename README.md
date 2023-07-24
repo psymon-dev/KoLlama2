@@ -15,16 +15,16 @@ GPT3부터 Bert, Llama2에 이르기까지 대규모 언어모델의 놀라운 �
 
 - GPT3의 사전학습 데이터 중 한국어 비율: 0.01697%
 <p align="center" style="color:gray">
-  <img style="margin:20px 0 10px 0" src="https://github.com/psymon-dev/KoLlama2/assets/91517542/79b72fee-3517-4a7e-a0a5-fda4c8f2a7ca" alt="image" width=482 />
-  <br/>출처: 22p Table 10, Llama 2: Open Foundation and Fine-Tuned Chat Models, Hugo Touvron et al, July 18-2023.
+  <img style="margin:20px 0 10px 0" src="https://github.com/psymon-dev/KoLlama2/assets/91517542/b50b9283-fb54-46b6-bc84-00bd363601c8" alt="image" width=482 />
+  <br/>출처: https://github.com/openai/gpt-3/blob/master/dataset_statistics/languages_by_word_count.csv
 </p> 
 
 <br/>
 
 - Llama2 모델의 사전학습 데이터 중 한국어 비율: 0.06%
 <p align="center" style="color:gray">
-  <img style="margin:20px 0 10px 0" src="https://github.com/psymon-dev/KoLlama2/assets/91517542/b50b9283-fb54-46b6-bc84-00bd363601c8" alt="image" width=482 />
-  <br/>출처: https://github.com/openai/gpt-3/blob/master/dataset_statistics/languages_by_word_count.csv
+  <img style="margin:20px 0 10px 0" src="https://github.com/psymon-dev/KoLlama2/assets/91517542/79b72fee-3517-4a7e-a0a5-fda4c8f2a7ca" alt="image" width=482 />
+  <br/>출처: 22p Table 10, Llama 2: Open Foundation and Fine-Tuned Chat Models, Hugo Touvron et al, July 18-2023.
 </p> 
 
 <br/>
@@ -110,15 +110,15 @@ From GPT3 to Bert to Llama2, the amazing advances in large-scale language models
 - Percentage of Korean in GPT3's pretraining data: 0.01697
 
 <p align="center" style="color:gray">
-  <img style="margin:20px 0 10px 0" src="https://github.com/psymon-dev/KoLlama2/assets/91517542/79b72fee-3517-4a7e-a0a5-fda4c8f2a7ca" alt="image" width=482 />
-  <br/>22p Table 10, Llama 2: Open Foundation and Fine-Tuned Chat Models, Hugo Touvron et al, July 18-2023.
+  <img style="margin:20px 0 10px 0" src="https://github.com/psymon-dev/KoLlama2/assets/91517542/b50b9283-fb54-46b6-bc84-00bd363601c8" alt="image" width=482 />
+  <br/>https://github.com/openai/gpt-3/blob/master/dataset_statistics/languages_by_word_count.csv
 </p> 
 
 - Percentage of Korean in the Llama2 model's pre-training data: 0.06%.
 
 <p align="center" style="color:gray">
-  <img style="margin:20px 0 10px 0" src="https://github.com/psymon-dev/KoLlama2/assets/91517542/b50b9283-fb54-46b6-bc84-00bd363601c8" alt="image" width=482 />
-  <br/>https://github.com/openai/gpt-3/blob/master/dataset_statistics/languages_by_word_count.csv
+  <img style="margin:20px 0 10px 0" src="https://github.com/psymon-dev/KoLlama2/assets/91517542/79b72fee-3517-4a7e-a0a5-fda4c8f2a7ca" alt="image" width=482 />
+  <br/>22p Table 10, Llama 2: Open Foundation and Fine-Tuned Chat Models, Hugo Touvron et al, July 18-2023.
 </p> 
 
 This percentage is significantly lower than the percentage of Korean speakers (81.7M) in the world's population (7.888 billion) (1.035%). This is based on a number of factors, including the isolated nature of Korean, an unprepared Korean corpus, and more, but the end result is that Korean speakers are severely limited in experiencing the richness of LLM.
