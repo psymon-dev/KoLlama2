@@ -2,7 +2,7 @@
 <br/>
 
 ✅ KoLlama2 첫버전은 고려대학교 NLP & AI 연구실과 HIAI 연구소가 공개한 한국어 instruction dataset kullm-v2를 사용한 LoRA 파인튜닝입니다.
-- 7B 저장소(https://huggingface.co/psymon/KoLlama2-7b)
+- 7B 저장소(https://huggingface.co/psymon/KoLlama2-7b) [코드](https://colab.research.google.com/drive/19AFEOrCI6-bc7h9RTso_NndRwXJRaJ25?usp=sharing)
 
 <br/>
 
